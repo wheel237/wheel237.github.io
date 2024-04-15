@@ -1,2 +1,2 @@
 # wheel237.github.io
-a website made by newbie
+a web made by newbie
